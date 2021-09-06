@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918674541334",
+    "firebase_url": "https://unidust-e48d1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "unidust-e48d1",
+    "storage_bucket": "unidust-e48d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918674541334:android:b0b35895355812770ede37",
+        "android_client_info": {
+          "package_name": "com.example.best_flutter_ui_templates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918674541334-4m323l412k90uosdt7dbv7ee91j4i5j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.best_flutter_ui_templates",
+            "certificate_hash": "8a044666c8d08e0d6916a8803b2f3a08bdcc26f7"
+          }
+        },
+        {
+          "client_id": "918674541334-rhg6sbcqmelgagsoes2ls21b7b54hnmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-L2kXigYgHFgJtRoBBe_fXiVggY09suU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918674541334-rhg6sbcqmelgagsoes2ls21b7b54hnmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

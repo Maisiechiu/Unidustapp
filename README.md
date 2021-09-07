@@ -4,7 +4,8 @@ Youtube demo link: https://www.youtube.com/watch?v=bXerMyFWl0w
 ### 介面呈現
 <img src="https://github.com/helenchiu1221/Unidustapp/blob/master/welcom1.gif" height=300 />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/helenchiu1221/Unidustapp/blob/master/info.gif" height=300  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/helenchiu1221/Unidustapp/blob/master/screen.gif" height=300  />  
 ### 紀錄家務頁面
-<img src="https://github.com/helenchiu1221/Unidustapp/blob/master/add.gif" height=300/>     
+<img src="https://github.com/helenchiu1221/Unidustapp/blob/master/add.gif" height=300/>   
+
 ### APP內部資料即時上傳後端
 同步Firebase，擁有帳號者之不同裝置仍可以共享資訊  
  <img src="https://github.com/helenchiu1221/Unidustapp/blob/master/record.gif" />

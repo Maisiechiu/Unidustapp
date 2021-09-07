@@ -1,5 +1,5 @@
-import 'package:best_flutter_ui_templates/signIn//sign_in_screen.dart';
-import 'package:best_flutter_ui_templates/utils/authentication.dart';
+import 'sign_in_screen.dart';
+import '../utils/authentication.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 

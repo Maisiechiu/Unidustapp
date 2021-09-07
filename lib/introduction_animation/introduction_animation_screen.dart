@@ -1,12 +1,12 @@
-import 'package:best_flutter_ui_templates/introduction_animation/member.dart';
-import 'package:best_flutter_ui_templates/introduction_animation/center_next_button.dart';
-import 'package:best_flutter_ui_templates/introduction_animation/ratio.dart';
-import 'package:best_flutter_ui_templates/introduction_animation/num_member.dart';
-import 'package:best_flutter_ui_templates/introduction_animation/begin.dart';
-import 'package:best_flutter_ui_templates/introduction_animation/top_back_skip_view.dart';
-import 'package:best_flutter_ui_templates/introduction_animation/success_build.dart';
+import 'member.dart';
+import 'center_next_button.dart';
+import 'ratio.dart';
+import 'num_member.dart';
+import 'begin.dart';
+import 'top_back_skip_view.dart';
+import 'success_build.dart';
 import 'package:flutter/material.dart';
-import 'package:best_flutter_ui_templates/unidust_app/unidust_app_home_screen.dart';
+import '../unidust_app/unidust_app_home_screen.dart';
 
 class IntroductionAnimationScreen extends StatefulWidget {
   const IntroductionAnimationScreen({Key? key}) : super(key: key);

@@ -1,5 +1,5 @@
-import 'package:best_flutter_ui_templates/utils/authentication.dart';
-import 'package:best_flutter_ui_templates/signIn/google_sign_in_button.dart';
+import '../utils/authentication.dart';
+import 'google_sign_in_button.dart';
 import 'package:flutter/material.dart';
 
 class SignInScreen extends StatefulWidget {

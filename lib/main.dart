@@ -1,12 +1,12 @@
 import 'dart:io';
-import 'package:best_flutter_ui_templates/app_theme.dart';
-import 'package:best_flutter_ui_templates/introduction_animation/introduction_animation_screen.dart';
+import 'app_theme.dart';
+import 'introduction_animation/introduction_animation_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
-import 'package:best_flutter_ui_templates/unidust_app/create_record/create_record.dart';
-import 'package:best_flutter_ui_templates/unidust_app/create_record/create_todo.dart';
-import 'package:best_flutter_ui_templates/signIn/sign_in_screen.dart';
+import 'unidust_app/create_record/create_record.dart';
+import 'unidust_app/create_record/create_todo.dart';
+import 'signIn/sign_in_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

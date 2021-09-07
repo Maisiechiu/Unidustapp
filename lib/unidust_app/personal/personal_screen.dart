@@ -1,5 +1,5 @@
 
-import 'package:best_flutter_ui_templates/unidust_app/ui_view/title_view.dart';
+import '../ui_view/title_view.dart';
 import 'sumup_chore.dart';
 import 'this_week_record.dart';
 import 'package:flutter/material.dart';

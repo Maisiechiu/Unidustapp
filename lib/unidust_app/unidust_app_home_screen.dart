@@ -1,11 +1,11 @@
-import 'package:best_flutter_ui_templates/unidust_app/models/tabIcon_data.dart';
-import 'package:best_flutter_ui_templates/unidust_app/data/data_screen.dart';
-import 'package:best_flutter_ui_templates/unidust_app/personal/personal_screen.dart';
+import 'models/tabIcon_data.dart';
+import 'data/data_screen.dart';
+import 'personal/personal_screen.dart';
 import 'package:flutter/material.dart';
 import 'bottom_navigation_view/bottom_bar_view.dart';
 import 'fitness_app_theme.dart';
 import 'home/record_recent.dart';
-import 'package:best_flutter_ui_templates/unidust_app/create_record/create_record.dart';
+import 'create_record/create_record.dart';
 
 
 class UnidustAppHomeScreen extends StatefulWidget {

@@ -2,7 +2,7 @@ import 'glass_view.dart';
 import 'running_view.dart';
 import 'workout_view.dart';
 import 'area_list_view.dart';
-import 'package:best_flutter_ui_templates/unidust_app/ui_view/title_view.dart';
+import '../ui_view/title_view.dart';
 import 'package:flutter/material.dart';
 import '../fitness_app_theme.dart';
 

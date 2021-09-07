@@ -1,7 +1,7 @@
-import 'package:best_flutter_ui_templates/app_theme.dart';
-import 'package:best_flutter_ui_templates/my_flutter_app_icons.dart';
-import 'package:best_flutter_ui_templates/utils/authentication.dart';
-import 'package:best_flutter_ui_templates/utils/firebase_store.dart';
+import '../../app_theme.dart';
+import '../../my_flutter_app_icons.dart';
+import '../../utils/authentication.dart';
+import '../../utils/firebase_store.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';

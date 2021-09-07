@@ -1,7 +1,7 @@
-import 'package:best_flutter_ui_templates/unidust_app/home/todo_list_view.dart';
-import 'package:best_flutter_ui_templates/unidust_app/home/body_measurement.dart';
-import 'package:best_flutter_ui_templates/unidust_app/home/dustbie_view.dart';
-import 'package:best_flutter_ui_templates/unidust_app/ui_view/title_view.dart';
+import 'todo_list_view.dart';
+import 'body_measurement.dart';
+import 'dustbie_view.dart';
+import '../ui_view/title_view.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

@@ -25,7 +25,7 @@ Youtube demo link  :   https://www.youtube.com/watch?v=bXerMyFWl0w
 * AppBar頁面切換
 
 #### 待開發
-* Firestore資料即時回傳
+* Firestore資料即時回傳至APP內部
 * 紀錄更新可以讓Unidust灰塵寶寶升級，並同時回傳至app
 
 ***
